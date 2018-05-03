@@ -1,0 +1,63 @@
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+li{
+    list-style-type: none;
+    margin: 5px;
+    color: blue;
+    font: bold 25px/25px 黑体;
+}
+
+body{
+    font:20px/12px 宋体;
+
+}
+
+textarea{
+    resize: vertical;
+}
+
+.warp{
+    min-width: 1000px;
+    border: 1px solid yellow;
+}
+
+.lcon{
+    min-width: 500px;
+    border: 1px solid red;
+}
+.lcon div{
+    margin-top: 5px;
+}
+.talk{
+    height: 500px;
+    overflow:auto;
+    border: 1px solid #000;
+}
+
+
+.rcon{
+    height: 500px;
+    border: 1px solid blue;
+}
+
+.room{
+    margin-bottom: 10px;
+}
+
+footer{
+    margin: 50px;
+    border: 1px solid pink;
+    text-align: center;
+}
+
+.media-body-right{
+    text-align: right;
+}
+
+.media-body-left{
+    text-align: left;
+}

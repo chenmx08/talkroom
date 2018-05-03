@@ -1,0 +1,300 @@
+[ 2018-04-29T00:02:21+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000479s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000137s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005456s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000194s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000123s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000071s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000639s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000227s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000257s ]
+
+[ 2018-04-29T00:02:39+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000263s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000168s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004154s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004196s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000141s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000125s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000074s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000205s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000628s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000227s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000257s ]
+
+[ 2018-04-29T00:09:06+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000420s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000129s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004114s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004164s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000157s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000131s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000078s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000182s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000653s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000239s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000272s ]
+
+[ 2018-04-29T00:09:17+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000287s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000117s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003775s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003819s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000182s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000127s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000073s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000625s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000225s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000255s ]
+
+[ 2018-04-29T00:09:44+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000256s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000123s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003850s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003896s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000150s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000126s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000075s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000215s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000648s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000229s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000261s ]
+
+[ 2018-04-29T00:20:33+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000328s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000131s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004378s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004427s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000151s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000127s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000076s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000603s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000317s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2018-04-29T00:22:45+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+
+[ 2018-04-29T00:22:58+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+
+[ 2018-04-29T00:22:59+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+
+[ 2018-04-29T00:23:46+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000339s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000148s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004003s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000199s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000128s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000073s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000646s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000227s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000259s ]
+
+[ 2018-04-29T00:25:04+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000315s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000133s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003967s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004019s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000149s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000175s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000075s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000681s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000226s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000256s ]
+
+[ 2018-04-29T00:26:41+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000270s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000129s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004294s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004386s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000278s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000164s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000090s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000240s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000883s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000268s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000302s ]
+
+[ 2018-04-29T00:26:52+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000246s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000120s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004064s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000203s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000155s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000072s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000674s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000223s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000253s ]
+
+[ 2018-04-29T00:30:12+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000278s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000130s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003868s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003960s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000197s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000126s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000072s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000635s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000229s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000261s ]
+
+[ 2018-04-29T00:30:42+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000327s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000316s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004747s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004799s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000152s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000158s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000078s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000695s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000234s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000263s ]
+
+[ 2018-04-29T00:32:58+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000297s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000152s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003991s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004036s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000149s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000125s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000073s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000683s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000247s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2018-04-29T00:33:46+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000303s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000124s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.003710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003751s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000139s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000124s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000072s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000567s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000265s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000295s ]
+
+[ 2018-04-29T00:35:54+08:00 ] 192.168.145.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000240s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.000400s ]
+SQL: SELECT `name` FROM `user` WHERE ( `isleave` = 0 )  [ RunTime:0.000507s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.004011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004064s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000291s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000131s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000073s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000739s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000225s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000256s ]
+

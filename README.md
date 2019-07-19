@@ -1,7 +1,7 @@
 # talkroom
 基于swoole的websocket初步搭建的多房间聊天室
 
-套用的是thinkPHP3的框架，因为最近工作用的是它。
+套用的是thinkPHP3的框架
 主要文件
 
 /websocket.php  websocket服务器脚本，使用命令行 php websocket运行
